@@ -1,5 +1,6 @@
 #The Gale Shapley Algorithm - The Stable Marriage Algorithm
-# Use dictionary
+# Uses dictionary
+# Circa May 2016
 def dump(girl, husband, boy):
 	herList=acceptor[girl]
 	if herList.index(husband)>herList.index(boy):
