@@ -1,0 +1,13 @@
+import random
+'''
+def insort(l)
+	n=[l.pop()] #makes n not empty
+	while l!=[]:
+		x=l.pop()
+		for i in range(len(n)):
+			if x <n[i]:
+				n.insert
+				break
+			if (i==len(n)-1)
+				n.insert(i+1,x)
+	return n
